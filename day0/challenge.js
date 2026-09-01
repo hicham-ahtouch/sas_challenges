@@ -48,9 +48,7 @@ else {
 function isleap(year) {
     if ((year % 4 == 0 && year % 100 !== 0) || year % 400 == 0);
 console.log("input year" ,year, "is a leap year"); }
-else if {
+else
     console.log("input year " ,year, + "is not a leap year");
-
-}
 let inputyear = 2026;
 isleapyear(inputyear);
