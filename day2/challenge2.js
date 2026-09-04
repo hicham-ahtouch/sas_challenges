@@ -29,5 +29,4 @@ function factorial(n){
     for(let i = 0; i < n ; i++){
         i *= n;
     }return i;
-}console.log(facturial(60))
-
+}console.log(facturial(60));
